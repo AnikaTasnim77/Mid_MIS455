@@ -78,3 +78,21 @@ nav a:hover {
     width: 100%;
     height: auto;
 }
+
+.introduction {
+    padding: 20px;
+    text-align: center;
+    background-color: #f9f9f9;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.introduction h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.introduction p {
+    margin-top: 10px;
+}
